@@ -1,0 +1,6 @@
+.chainlit/
+*.env
+Scentiment_react/__pycache__/
+Scentiment_react/.chainlit/
+Scentiment_react/__init__.py 
+training/
