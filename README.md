@@ -7,7 +7,7 @@ Welcome to the **SportsGear Chatbot** repository! This project contains a state-
 - **📦 Order Support**: Retrieve comprehensive information about customer orders, including shipping status, cancellations, and more.
 - **🏅 Product Recommendations**: Offer personalized product recommendations tailored to customer preferences and needs.
 - **💸 Discount Offers**: Inform customers about ongoing discounts, promotions, and special offers.
-- **🤗 Friendly Assistance**: Alex Sterling, a friendly and neutral support entity developed by GENIE AI, is here to help with any inquiries.
+- **🤗 Friendly Assistance**: Alex Sterling, a friendly and neutral support entity, is here to help with any inquiries.
 
 ## 🚀 Getting Started
 
