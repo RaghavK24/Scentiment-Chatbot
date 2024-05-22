@@ -8,7 +8,14 @@ Welcome to the Scentiment Chatbot repository! This project showcases an AI-power
 - [✨ Features](#features)
 - [💬 Example Queries](#example-queries)
 
+<<<<<<< HEAD
 ## 🚀 Installation
+=======
+- **📦 Order Support**: Retrieve comprehensive information about customer orders, including shipping status, cancellations, and more.
+- **🏅 Product Recommendations**: Offer personalized product recommendations tailored to customer preferences and needs.
+- **💸 Discount Offers**: Inform customers about ongoing discounts, promotions, and special offers.
+- **🤗 Friendly Assistance**: Alex Sterling, a friendly and neutral support entity, is here to help with any inquiries.
+>>>>>>> 0b040d18682398931deac08b3d6b1b1b1dacfeaa
 
 1. **Clone the repository:**
 
