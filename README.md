@@ -1,6 +1,6 @@
 # 🌸 Scentiment Chatbot 🌸
 
-Welcome to the Scentiment Chatbot repository! This project showcases an AI-powered assistant designed to handle customer queries related to orders, product recommendations, and discounts for Scentiment products. The chatbot leverages OpenAI's GPT model and Chainlit for seamless message handling.
+Welcome to the Scentiment Chatbot repository! This project showcases an AI-powered assistant built using the ReAct (Reason and Action) technique. We utilize built-in functions to seamlessly handle customer queries related to orders, product recommendations, and discounts for Scentiment products.. The chatbot leverages OpenAI's GPT model and Chainlit for seamless message handling.
 
 ## 📚 Table of Contents
 
