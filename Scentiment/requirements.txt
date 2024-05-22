@@ -1,0 +1,4 @@
+openai
+chainlit
+loguru
+python-dotenv

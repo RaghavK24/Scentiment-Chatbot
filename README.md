@@ -1,45 +1,61 @@
-# 🏀 SportsGear Chatbot 🤖
+# 🌸 Scentiment Chatbot 🌸
 
-Welcome to the **SportsGear Chatbot** repository! This project contains a state-of-the-art chatbot designed to assist customers of **SportsGear**, a premier retailer that offers a wide range of sports gear including shoes, apparel, and equipment. The chatbot aims to enhance the customer experience by providing instant support for various queries.
+Welcome to the Scentiment Chatbot repository! This project showcases an AI-powered assistant designed to handle customer queries related to orders, product recommendations, and discounts for Scentiment products. The chatbot leverages OpenAI's GPT model and Chainlit for seamless message handling.
 
-## ✨ Features
+## 📚 Table of Contents
+- [🚀 Installation](#installation)
+- [💻 Usage](#usage)
+- [✨ Features](#features)
+- [💬 Example Queries](#example-queries)
 
-- **📦 Order Support**: Retrieve comprehensive information about customer orders, including shipping status, cancellations, and more.
-- **🏅 Product Recommendations**: Offer personalized product recommendations tailored to customer preferences and needs.
-- **💸 Discount Offers**: Inform customers about ongoing discounts, promotions, and special offers.
-- **🤗 Friendly Assistance**: Alex Sterling, a friendly and neutral support entity developed by GENIE AI, is here to help with any inquiries.
+## 🚀 Installation
 
-## 🚀 Getting Started
+1. **Clone the repository:**
 
-To get started with the SportsGear Chatbot, follow these steps:
-
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/your-username/sportsgear-chatbot.git
+    ```bash
+    git clone https://github.com/RaghavK24/Scentiment-Chatbot.git
+    cd Scentiment
     ```
-2. **Install the required dependencies**:
-    ```sh
+
+2. **Create a virtual environment and activate it:**
+
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+
+3. **Install the required dependencies:**
+
+    ```bash
     pip install -r requirements.txt
     ```
-3. **Run the chainlit application**:
-    ```sh
+
+## 💻 Usage
+
+1. **Run the Chainlit application:**
+
+    ```bash
     chainlit run new_chat.py
     ```
 
-## 🔧 Project Structure
+2. **Interact with the chatbot** through the Chainlit interface. You can ask about:
+   - 📦 **Order details**
+   - 🕯️ **Product recommendations**
+   - 💸 **Current discounts**
 
-Here's a brief overview of the project structure:
+## ✨ Features
 
-- `app.py`: Main application file to run the chatbot.
-- `requirements.txt`: A list of Python packages required to run the project.
-- `training_data/`: Directory containing training data for fine-tuning the chatbot.
-- `utils/`: Utility functions and helper scripts.
-- `README.md`: This readme file.
+- **Order Details**: 📦 Retrieve all information about customer orders, including shipping status, cancellations, and estimated delivery dates.
+- **Product Recommendations**: 🕯️ Provide personalized product recommendations based on the type of product the user is interested in.
+- **Discount Offers**: 💸 Inform users about current discount offers and promotions.
+
+## 💬 Example Queries
+
+- **Order Details**: "Can you tell me the status of my order with ID 12345?" 📦
+- **Product Recommendations**: "What diffusers do you recommend?" 🕯️
+- **Discount Offers**: "Are there any discounts available right now?" 💸
 
 
-## 📝 License
+---
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-
-Happy chatting! 💬😊
+Happy chatting! 🌟
